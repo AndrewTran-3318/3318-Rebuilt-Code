@@ -1,0 +1,38 @@
+{
+  "robotWidth": 0.87,
+  "robotLength": 0.87,
+  "holonomicMode": true,
+  "pathFolders": [
+    "Gwinnett",
+    "Gainsville"
+  ],
+  "autoFolders": [
+    "Gwinnett",
+    "Gainsville"
+  ],
+  "defaultMaxVel": 3.0,
+  "defaultMaxAccel": 3.0,
+  "defaultMaxAngVel": 540.0,
+  "defaultMaxAngAccel": 720.0,
+  "defaultNominalVoltage": 12.0,
+  "robotMass": 56.7,
+  "robotMOI": 6.0,
+  "robotTrackwidth": 0.546,
+  "driveWheelRadius": 0.051,
+  "driveGearing": 6.746,
+  "maxDriveSpeed": 0.5,
+  "driveMotorType": "falcon500",
+  "driveCurrentLimit": 60.0,
+  "wheelCOF": 1.0,
+  "flModuleX": 0.279,
+  "flModuleY": 0.279,
+  "frModuleX": 0.279,
+  "frModuleY": -0.279,
+  "blModuleX": -0.279,
+  "blModuleY": 0.2794,
+  "brModuleX": -0.2794,
+  "brModuleY": -0.2794,
+  "bumperOffsetX": 0.0,
+  "bumperOffsetY": 0.0,
+  "robotFeatures": []
+}

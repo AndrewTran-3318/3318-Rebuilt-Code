@@ -1,0 +1,31 @@
+{
+  "version": "2025.0",
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "StartToDepot"
+          }
+        },
+        {
+          "type": "wait",
+          "data": {
+            "waitTime": 0
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "ShootFromDepot"
+          }
+        }
+      ]
+    }
+  },
+  "resetOdom": true,
+  "folder": "Gwinnett",
+  "choreoAuto": false
+}

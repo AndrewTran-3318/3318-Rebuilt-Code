@@ -1,0 +1,22 @@
+Driver Controls:
+- Left Joystick         -   Translation
+- Right Joystick        -   Rotation
+- Right Trigger (R2)    -   Lock Robot Orientation to april tag
+
+
+Operator Controls:
+- Left Trigger (L2)     -   Outtake                             Need to Change to Match
+- Left Bumper (L1)      -   Intake                              Need to Change to Match
+- LeftStick Button (R3) -   
+- Right Trigger (R2)    -   Arm Shooter                         Need to Implement
+- Right Bumper (R1)     -   Shoot                               Need to Tune
+- A Button              -   Intake Up                           Need to Match
+- B Button              -   Increase RPS by 1                                    Currently DEV tool
+- Y Button              -   Decrease RPS by 1                    Purge Shooter   Currently Dev Tool
+- X Button              -   Intake Down
+- Start Button          -   
+
+
+
+Motors
+Swerve- All Falcons

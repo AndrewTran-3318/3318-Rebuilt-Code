@@ -1,0 +1,54 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 4.725,
+        "y": 7.431
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 2.8875178316690437,
+        "y": 7.431398002853067
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 2.809885877318117,
+        "y": 6.279857346647646
+      },
+      "prevControl": {
+        "x": 1.2701854493580604,
+        "y": 7.392582025677603
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 3.0,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 128.08877288097534
+  },
+  "reversed": false,
+  "folder": "Gainsville",
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": -179.591
+  },
+  "useDefaultConstraints": true
+}

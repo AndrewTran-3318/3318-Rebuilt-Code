@@ -1,0 +1,61 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 0.4894698795180723,
+        "y": 0.680192771084337
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 1.1045417783553622,
+        "y": 1.0738104353005498
+      },
+      "isLocked": false,
+      "linkedName": "BlueOutpost"
+    },
+    {
+      "anchor": {
+        "x": 2.2597590361445783,
+        "y": 2.024301204819277
+      },
+      "prevControl": {
+        "x": 1.2284551818489868,
+        "y": 0.35156025286554704
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [
+    {
+      "name": "AutoShoot",
+      "waypointRelativePos": 1.0,
+      "endWaypointRelativePos": null,
+      "command": null
+    }
+  ],
+  "globalConstraints": {
+    "maxVelocity": 3.0,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": -132.96908576314692
+  },
+  "reversed": false,
+  "folder": "Gwinnett",
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": 90.42440541936148
+  },
+  "useDefaultConstraints": true
+}
